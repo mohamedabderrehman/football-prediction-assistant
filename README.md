@@ -110,4 +110,4 @@ The weighted score is heuristic and uncalibrated; no historical prediction accur
 - [Case study](docs/case-study.md)
 - [Verification](docs/verification.md)
 - [Architecture diagram](docs/architecture.svg)
-- [Portfolio case study](https://mohamed-abderrehmane-portfolio.wry-dog-0796.chatgpt.site/projects/football-prediction-assistant/)
+- [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/football-prediction-assistant/)

@@ -26,13 +26,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 6649,
-    "sha256": "14c877db3fd61b092add34721001d8981398781a65cd5bc794b01317efbf8e4f"
+    "bytes": 6657,
+    "sha256": "f6a662dfce831fbe6f1a65de985146a3a300cef70954830826a9cad0fe1485fe"
   },
   {
     "path": "README.md",
-    "bytes": 5489,
-    "sha256": "60ba12fb259f6799a8d7717324326b3843d42a638ce93d6f86fde4472c0ee973"
+    "bytes": 5497,
+    "sha256": "005b220fa469cada22221309239efaedacf05273d98e0db3f02f4ea1010dd272"
   },
   {
     "path": "SECURITY.md",
@@ -233,6 +233,16 @@
     "path": "docs/images/fixture-analysis.jpg",
     "bytes": 55397,
     "sha256": "ba3921324ee0a799cc3b4124e288f296a71a3a6308ab3666d18a1bb958ab22ed"
+  },
+  {
+    "path": "docs/publication.ar.md",
+    "bytes": 755,
+    "sha256": "11517231a21b01116c763ae0781469339440c8e56e85b06a4de2057540af5258"
+  },
+  {
+    "path": "docs/publication.md",
+    "bytes": 675,
+    "sha256": "cf788fdf21379abeceeca270b13313f4eb4af5478ee470a6a7e66f543246c15d"
   },
   {
     "path": "docs/setup.ar.md",
