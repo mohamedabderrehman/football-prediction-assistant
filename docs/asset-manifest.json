@@ -1,7 +1,12 @@
 [
   {
+    "path": "docs/architecture.svg",
+    "sha256": "d0a0a3505bf53ba7486d46606ca11ef7af43b564d45195edf8741f3cfc823451",
+    "scope": "Actual synthetic application capture"
+  },
+  {
     "path": "docs/images/fixture-analysis.jpg",
     "sha256": "ba3921324ee0a799cc3b4124e288f296a71a3a6308ab3666d18a1bb958ab22ed",
-    "scope": "Actual application screenshot; source UI rights and third-party imagery remain separate"
+    "scope": "Actual synthetic application capture"
   }
 ]

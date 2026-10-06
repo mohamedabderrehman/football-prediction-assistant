@@ -18,7 +18,7 @@ AI prose explains structured evidence; it does not establish calibrated betting 
 
 ## What the publication preparation established
 
-All 21 backend tests, TypeScript checking and frontend production build passed. Browser fixture analysis returned generated data and explicitly stated that no provider was contacted. Next.js was updated to 15.5.24 for confirmed security advisories; remaining dependency audit findings are recorded separately.
+All 21 backend tests, TypeScript checking and frontend production build passed. Browser fixture analysis returned generated data and explicitly stated that no provider was contacted. Next.js was updated to 15.5.27 for confirmed security advisories; remaining dependency audit findings are recorded separately.
 
 ## Deployment experience and evidence limits
 

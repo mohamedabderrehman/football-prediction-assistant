@@ -92,3 +92,22 @@ Open an issue describing a reproducible problem, expected behavior and component
 ## License and attribution
 
 Source code is MIT licensed. Third-party dependencies and assets retain their own terms; see [attribution](THIRD_PARTY_NOTICES.md).
+
+<!-- release-presentation -->
+
+## Actual application interface
+
+![Football Prediction Assistant — interface with synthetic demonstration data](docs/images/fixture-analysis.jpg)
+
+Captured from the local application with synthetic records. This does not establish production usage or Android device verification.
+
+## Verification and deeper reading
+
+All 21 backend tests, TypeScript checking and frontend production build passed. Browser fixture analysis returned generated data and explicitly stated that no provider was contacted. Next.js was updated to 15.5.27 for confirmed security advisories; remaining dependency audit findings are recorded separately.
+
+The weighted score is heuristic and uncalibrated; no historical prediction accuracy or safe betting outcome is asserted. Paid provider calls were not used. Build-tool dependency audit findings remain; see the audit note.
+
+- [Case study](docs/case-study.md)
+- [Verification](docs/verification.md)
+- [Architecture diagram](docs/architecture.svg)
+- [Portfolio case study](https://mohamed-abderrehmane-portfolio.wry-dog-0796.chatgpt.site/projects/football-prediction-assistant/)

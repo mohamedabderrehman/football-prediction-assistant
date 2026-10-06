@@ -4,7 +4,7 @@ Recorded on 2026-10-06 using disposable local data. Historical deployment is a s
 
 ## Passed locally
 
-All 21 backend tests, TypeScript checking and frontend production build passed. Browser fixture analysis returned generated data and explicitly stated that no provider was contacted. Next.js was updated to 15.5.24 for confirmed security advisories; remaining dependency audit findings are recorded separately.
+All 21 backend tests, TypeScript checking and frontend production build passed. Browser fixture analysis returned generated data and explicitly stated that no provider was contacted. Next.js was updated to 15.5.27 for confirmed security advisories; remaining dependency audit findings are recorded separately.
 
 ## Checks and commands
 
@@ -15,7 +15,7 @@ npm run typecheck
 npm test -- --run
 npm run dev
 # Separate terminal:
-cd frontend
+cd ../frontend
 npm ci
 npm run dev
 npm run build

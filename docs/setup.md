@@ -11,7 +11,7 @@ npm run typecheck
 npm test -- --run
 npm run dev
 # Separate terminal:
-cd frontend
+cd ../frontend
 npm ci
 npm run dev
 npm run build

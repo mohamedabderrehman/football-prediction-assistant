@@ -28,7 +28,6 @@ credentials.json
 google-services.json
 GoogleService-Info.plist
 local.properties
-release-manifest.json
 
 .next/
 *.tsbuildinfo
