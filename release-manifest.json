@@ -266,13 +266,13 @@
   },
   {
     "path": "docs/verification.ar.md",
-    "bytes": 1731,
-    "sha256": "c97f1226082a2bfdc2b4c6a04fc293580bf3ec6f2f021581eea59312a010dd13"
+    "bytes": 1746,
+    "sha256": "27740696fce85cb1a15ec378ecedfd23b7d9cbe12e987729b9a3ee4ad174ad82"
   },
   {
     "path": "docs/verification.md",
-    "bytes": 1473,
-    "sha256": "fdffebe55d427ec08b0a31935cb29af65a6d9d44640b3e3e1390078c57ca2760"
+    "bytes": 1492,
+    "sha256": "ed7aeee0185a8910032fbf87eb5f7c2514e51ff5e3b33a1c25796d5ab06216af"
   },
   {
     "path": "frontend/.env.example",
